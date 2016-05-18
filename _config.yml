@@ -1,0 +1,14 @@
+layout_spectrum: 0.6966878820676357
+typography_spectrum: 0.25374932843260467
+color:
+  brandStrength: 0.09508428280241787
+  lightness: 0.3174024955369532
+  saturation: 0.7133837845176458
+  rhythmicContrast: 0.30899402289651334
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+name: bigoil
