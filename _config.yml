@@ -1,3 +1,4 @@
+typography_spectrum: 0.25374932843260467
 color:
   brandColors:
     - '#450003'
@@ -9,6 +10,8 @@ color:
   lightness: 0.3174024955369532
   rhythmicContrast: 0.30899402289651334
   saturation: 0.7133837845176458
+github: true
 layout_spectrum: 0.6966878820676357
 name: Bedtime for Big Oil
-typography_spectrum: 0.25374932843260467
+url: 'http://bedtimeforbigoil.com'
+content: []
