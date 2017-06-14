@@ -32,7 +32,6 @@ content:
         domain: s3.amazonaws.com
       keywords: []
       description: ''
-      inLanguage: !<tag:yaml.org,2002:js/undefined> ''
       app_links: []
       '@context': 'http://schema.org'
       '@type': MediaObject
@@ -41,4 +40,4 @@ content:
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
 title: Bedtime for Big Oil
-description: ''
+description: Lullabies of Fossil Fuel
