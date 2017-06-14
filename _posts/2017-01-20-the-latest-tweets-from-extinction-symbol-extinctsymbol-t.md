@@ -25,10 +25,10 @@ author:
           - 102
 related: []
 publisher:
-  url: 'https://twitter.com'
-  name: Twitter
-  favicon: 'https://abs.twimg.com/favicons/favicon.ico'
-  domain: twitter.com
+  url: 'http://www.extinctionsymbol.info'
+  name: Extinctionsymbol
+  favicon: null
+  domain: www.extinctionsymbol.info
 keywords:
   - www
   - extinctsymbol
@@ -41,9 +41,11 @@ keywords:
   - instantly
   - cmp
 description: >-
-  The latest Tweets from Extinction Symbol (@extinctsymbol). This symbol
-  represents the extinction crisis. Create it everywhere to raise awareness of
-  the rapidly accelerating collapse of global biodiversity
+  The symbol above represents extinction. The circle signifies the planet, while
+  the hourglass inside serves as a warning that time is rapidly running out for
+  many species. The world is currently undergoing a mass extinction event, and
+  this symbol is intended to help raise awareness of the urgent need for change
+  in order to address this crisis.
 inLanguage: en
 app_links:
   - path: >-
@@ -52,9 +54,9 @@ app_links:
     namespace: google
     type: android
 isBasedOnUrl: 'https://twitter.com/extinctsymbol'
-datePublished: '2017-06-14T07:59:56.382Z'
-dateModified: '2017-06-14T07:59:55.857Z'
-title: ''
+datePublished: '2017-06-14T08:01:42.070Z'
+dateModified: '2017-06-14T08:01:41.650Z'
+title: Extinction Symbol
 via: {}
 inFeed: true
 sourcePath: _posts/2017-01-20-the-latest-tweets-from-extinction-symbol-extinctsymbol-t.md
@@ -64,6 +66,4 @@ _type: Comment
 _context: 'http://schema.org'
 
 ---
-> The latest Tweets from Extinction Symbol (@extinctsymbol). This symbol represents the extinction crisis. Create it everywhere to raise awareness of the rapidly accelerating collapse of global biodiversity
-
 <article style=""><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/46741a2adc158e38494e99389f17a684/noop.jpg?input=http%3A%2F%2Fwww.extinctionsymbol.info%2Ffire.jpg" /><h1>Extinction Symbol</h1><p>The symbol above represents extinction. The circle signifies the planet, while the hourglass inside serves as a warning that time is rapidly running out for many species. The world is currently undergoing a mass extinction event, and this symbol is intended to help raise awareness of the urgent need for change in order to address this crisis.</p></article>
